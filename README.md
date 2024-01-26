@@ -1,149 +1,119 @@
-<a href="https://www.rowy.io/" target="_blank">
-<img width="100%" src="https://user-images.githubusercontent.com/307298/218350866-cfd7c011-2247-4074-8b1d-06c26a4d0b96.png" />
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><a href="https://www.rowy.io/" rel="nofollow">
+<img width="100%" src="https://user-images.githubusercontent.com/307298/218350866-cfd7c011-2247-4074-8b1d-06c26a4d0b96.png" style="max-width: 100%;">
 </a>
-
-<h4 align="center">
-✨ Airtable-like UI for managing database ✨ Build any automation, with or without code ✨
-</h4>
-<p align="center" >
-Connect to your database and create Cloud Functions in low-code - without leaving your browser.<br/>
-Focus on building your apps.
-Low-code for Firebase and Google Cloud.
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content--airtable-like-ui-for-managing-database--build-any-automation-with-or-without-code-" class="anchor" aria-hidden="true" tabindex="-1" href="#-airtable-like-ui-for-managing-database--build-any-automation-with-or-without-code-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+✨ 用于管理数据库的类似 Airtable 的 UI ✨ 构建任何自动化，无论是否有代码 ✨
+</font></font></h4>
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+连接到您的数据库并以低代码创建云函数 - 无需离开浏览器。</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+专注于构建您的应用程序。</font><font style="vertical-align: inherit;">Firebase 和 Google Cloud 的低代码。
+</font></font></p>
+<div align="center" dir="auto">
+<p dir="auto"><a href="https://discord.gg/fjBugmvzZP" rel="nofollow"><img src="https://camo.githubusercontent.com/bf4aaf2b1acf284550b65d0619d5b750572e7b3ba0c2bfb9939c38eb4e7b87db/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f7365727665722f666a4275676d767a5a50" alt="不和谐战壕" data-canonical-src="https://dcbadge.vercel.app/api/server/fjBugmvzZP" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto">
+    <a href="http://www.rowy.io" rel="nofollow"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站</font></font></b></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•
+    </font></font><a href="http://docs.rowy.io" rel="nofollow"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></b></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•
+    </font></font><a href="https://discord.gg/fjBugmvzZP" rel="nofollow"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与我们聊天</font></font></b></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">• 
+    </font></font><a href="https://twitter.com/rowyio" rel="nofollow"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Twitter</font></font></b></a>
 </p>
-
-<div align="center">
-
-[![Rowy Discord](https://dcbadge.vercel.app/api/server/fjBugmvzZP)](https://discord.gg/fjBugmvzZP)
-
-<p align="center">
-    <a href="http://www.rowy.io"><b>Website</b></a> •
-    <a href="http://docs.rowy.io"><b>Documentation</b></a> •
-    <a href="https://discord.gg/fjBugmvzZP"><b>Chat with us</b></a> • 
-    <a href="https://twitter.com/rowyio"><b>Twitter</b></a>
-</p>
-
-[![Last commit](https://img.shields.io/github/last-commit/rowyio/rowy/rc)](https://github.com/rowyio/rowy/commits/rc)
-[![GitHub stars](https://img.shields.io/github/stars/rowyio/rowy)](https://github.com/rowyio/rowy/stargazers/)
-
+<p dir="auto"><a href="https://github.com/rowyio/rowy/commits/rc"><img src="https://camo.githubusercontent.com/52f326f58210c9720ad1400613bc7a17b6f31d3b1866c7fecb794682bec1740c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f726f7779696f2f726f77792f7263" alt="最后一次提交" data-canonical-src="https://img.shields.io/github/last-commit/rowyio/rowy/rc" style="max-width: 100%;"></a>
+<a href="https://github.com/rowyio/rowy/stargazers/"><img src="https://camo.githubusercontent.com/37c25c2171ebe8b2dfa9542625b20cfe76e29db666272e20de59a7dd21817d51/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f726f7779696f2f726f7779" alt="GitHub 星星" data-canonical-src="https://img.shields.io/github/stars/rowyio/rowy" style="max-width: 100%;"></a></p>
 </div>
+<h2 tabindex="-1" dir="auto"><a id="user-content-live-demo-" class="anchor" aria-hidden="true" tabindex="-1" href="#live-demo-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现场演示🛝</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://demo.rowy.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💥 在现场演示游乐场</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">探索 Rowy </font><font style="vertical-align: inherit;">💥</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-features-" class="anchor" aria-hidden="true" tabindex="-1" href="#features-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特点✨</font></font></h2>
 
-## Live Demo 🛝
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
+    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
+</svg>
+    <span aria-label="视频说明20211004-RowyWebsite.mp4" class="m-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20211004-RowyWebsite.mp4</font></font></span>
+    <span class="dropdown-caret"></span>
+  </summary>
 
-💥 Explore Rowy on [live demo playground](https://demo.rowy.io/) 💥
+  <video src="https://private-user-images.githubusercontent.com/307298/157185793-f67511cd-7b7b-4229-9589-d7defbf7a63f.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYyNTA2OTcsIm5iZiI6MTcwNjI1MDM5NywicGF0aCI6Ii8zMDcyOTgvMTU3MTg1NzkzLWY2NzUxMWNkLTdiN2ItNDIyOS05NTg5LWQ3ZGVmYmY3YTYzZi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyNlQwNjI2MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01YjgyNGEwM2Y0NDg1ODIzYmM2YzAzNTg3MDI4OWFhNGQyMWMyZGVkY2MyMjE4NTI3ODc3MWMxZGNmMjU2YjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ONWvyS3uX8XrAVfjxz41EQQRfYXL57DysKNNqACYZig" data-canonical-src="https://private-user-images.githubusercontent.com/307298/157185793-f67511cd-7b7b-4229-9589-d7defbf7a63f.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYyNTA2OTcsIm5iZiI6MTcwNjI1MDM5NywicGF0aCI6Ii8zMDcyOTgvMTU3MTg1NzkzLWY2NzUxMWNkLTdiN2ItNDIyOS05NTg5LWQ3ZGVmYmY3YTYzZi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyNlQwNjI2MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01YjgyNGEwM2Y0NDg1ODIzYmM2YzAzNTg3MDI4OWFhNGQyMWMyZGVkY2MyMjE4NTI3ODc3MWMxZGNmMjU2YjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ONWvyS3uX8XrAVfjxz41EQQRfYXL57DysKNNqACYZig" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
-## Features ✨
+  </video>
+</details>
 
-<!-- <table>
-    <tr>
-    <th>
-      <a href="#">Database</a>
-    </th>
-    <th>
-      <a href="#">Automation</a>
-    </th>
-    </tr>
-    <tr>
-    <td>
-        <a href="#">
-        <img src=""/>
-    </a>
-    </td>
-    <td>
-        <a href="#">
-        <img src=""/>
-    </a>
-    </td>
-    </tr>
-</table> -->
 
-https://user-images.githubusercontent.com/307298/157185793-f67511cd-7b7b-4229-9589-d7defbf7a63f.mp4
-
-<!-- <img width="85%" src="https://firebasestorage.googleapis.com/v0/b/rowyio.appspot.com/o/publicDemo%2FRowy%20Website%20Video%20GIF%20Small.gif?alt=media&token=3f699a8f-c1f2-4046-8ed5-e4ff66947cd8" />
- -->
-
-### Powerful spreadsheet interface for Firestore
-
-- CMS for Firestore
-- CRUD operations
-- Bulk import or export data - csv, json, tsv
-- Sort and filter by row values
-- Lock, Freeze, Resize, Hide and Rename columns
-- Multiple views for the same collection
-
-### Automate with cloud functions and ready made extensions
-
-- Build cloud functions workflows on field level data changes
-  - Use any NPM modules or APIs
-- Connect to your favourite tool with pre-built code blocks or create your own
-  - SendGrid, Algolia, Twilio, Bigquery and more
-
-### Rich and flexible data fields
-
-- [30+ fields supported](https://docs.rowy.io/field-types/supported-fields)
-  - Basic types: Short Text, Long Text, Email, Phone, URL…
-  - Custom UI pickers: Date, Checkbox, Single Select, Multi Select…
-  - Uploaders: Image, File
-  - Rich Editors: JSON, Code, Rich Text (HTML), Markdown
-- Data validation, default values, required fields
-- Action field: Clickable trigger for any Cloud Function
-- Aggregate field: Populate cell with value aggregated from the row’s sub-table
-- Connector field: Connect data from multiple table collections
-- Connect Service: Get data from any HTTP endpoint
-
-### Collaborate with your team
-
-- Granular table-level and field-level permission control  
-  with role based access controls
-- Built in user management
-- Customizable views for different user roles
-
-## Quick guided install
-
-Set up Rowy on your Google Cloud Platform project with this easy deploy button.
-Your data and cloud functions stay on your own Firestore/GCP and is managed via
-a cloud run instance that operates exclusively on your GCP project. So we do do
-not access or store any of your data on Rowy.
-
-[<img width="200" alt="Guided quick start button" src="https://user-images.githubusercontent.com/307298/185548050-e9208fb6-fe53-4c84-bbfa-53c08e03c15f.png">](https://rowy.app/)
-
-https://rowy.app
-
-## Documentation
-
-You can find the full documentation with how-to guides and templates
-[here](http://docs.rowy.io/).
-
-## Manual Install
-
-We recommend the
-[quick guided install](https://github.com/rowyio/rowy#quick-guided-install)
-option above. Manual install option is only recommended if you want to develop
-and contribute to the project. Follow this
-[guide](https://docs.rowy.io/setup/install#option-2-manual-install) for manual
-setup.
-
-## Roadmap
-
-[View our roadmap](https://roadmap.rowy.io/) on Rowy - Upvote, downvote, share
-your thoughts!
-
-If you'd like to propose a feature, submit an issue
-[here](https://github.com/rowyio/rowy/issues/new?assignees=&labels=&template=feature_request.md&title=).
-
-## Support the project
-
-- Join a community of developers on [Discord](https://discord.gg/fjBugmvzZP) and
-  share your ideas/feedback 💬
-- Follow us on [Twitter](https://twitter.com/rowyio) and help
-  [spread the word](https://twitter.com/intent/tweet?text=Check%20out%20@rowyio%20-%20It%27s%20like%20an%20open-source%20Airtable%20for%20your%20database,%20but%20with%20a%20built-in%20code%20editor%20for%20cloud%20functions%20to%20run%20on%20data%20CRUD!%0a%0aEsp%20if%20building%20on%20@googlecloud%20and%20@Firebase%20stack,%20it%20is%20the%20fastest%20way%20to%20build%20your%20product.%20Live%20demo:%20https://demo.rowy.io)
-  🙏
-- Give us a star to this Github repo ⭐️
-- Submit a PR. Take a look at our
-  [contribution guide](https://github.com/rowyio/rowy/blob/main/CONTRIBUTING.md)
-  and get started with
-  [good first issues](https://github.com/rowyio/rowy/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
-
-## Help
-
-- Live chat support on [Discord](https://www.rowy.io/discord)
-- [Email](mailto:hello@rowy.io)
+<h3 tabindex="-1" dir="auto"><a id="user-content-powerful-spreadsheet-interface-for-firestore" class="anchor" aria-hidden="true" tabindex="-1" href="#powerful-spreadsheet-interface-for-firestore"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Firestore 强大的电子表格界面</font></font></h3>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Firestore CMS</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">增删改查操作</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">批量导入或导出数据 - csv、json、tsv</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">按行值排序和过滤</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">锁定、冻结、调整大小、隐藏和重命名列</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">同一集合的多个视图</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-automate-with-cloud-functions-and-ready-made-extensions" class="anchor" aria-hidden="true" tabindex="-1" href="#automate-with-cloud-functions-and-ready-made-extensions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用云功能和现成的扩展实现自动化</font></font></h3>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">根据现场级数据变化构建云功能工作流程
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用任何 NPM 模块或 API</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用预构建的代码块连接到您最喜欢的工具或创建您自己的
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SendGrid、Algolia、Twilio、Bigquery 等</font></font></li>
+</ul>
+</li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-rich-and-flexible-data-fields" class="anchor" aria-hidden="true" tabindex="-1" href="#rich-and-flexible-data-fields"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">丰富灵活的数据字段</font></font></h3>
+<ul dir="auto">
+<li><a href="https://docs.rowy.io/field-types/supported-fields" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持 30 多个字段</font></font></a>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基本类型：短文本、长文本、电子邮件、电话、URL…</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自定义 UI 选择器：日期、复选框、单选、多选……</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上传者： 图片、文件</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">丰富的编辑器：JSON、代码、富文本 (HTML)、Markdown</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据验证、默认值、必填字段</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">操作字段：任何云功能的可点击触发器</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">聚合字段：使用从行的子表聚合的值填充单元格</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">连接器字段：连接多个表集合中的数据</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">连接服务：从任何 HTTP 端点获取数据</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-collaborate-with-your-team" class="anchor" aria-hidden="true" tabindex="-1" href="#collaborate-with-your-team"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与您的团队合作</font></font></h3>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+具有基于角色的访问控制的</font><font style="vertical-align: inherit;">细粒度表级和字段级权限控制</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内置用户管理</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">针对不同用户角色的可定制视图</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-quick-guided-install" class="anchor" aria-hidden="true" tabindex="-1" href="#quick-guided-install"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速引导安装</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用这个简单的部署按钮在您的 Google Cloud Platform 项目上设置 Rowy。</font><font style="vertical-align: inherit;">您的数据和云功能保留在您自己的 Firestore/GCP 上，并通过专门在您的 GCP 项目上运行的云运行实例进行管理。</font><font style="vertical-align: inherit;">因此，我们不会在 Rowy 上访问或存储您的任何数据。</font></font></p>
+<p dir="auto"><a href="https://rowy.app/" rel="nofollow"><img width="200" alt="引导式快速启动按钮" src="https://user-images.githubusercontent.com/307298/185548050-e9208fb6-fe53-4c84-bbfa-53c08e03c15f.png" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://rowy.app" rel="nofollow">https://rowy.app</a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-documentation" class="anchor" aria-hidden="true" tabindex="-1" href="#documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="http://docs.rowy.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以在此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">找到包含操作指南和模板的完整文档
+</font><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-manual-install" class="anchor" aria-hidden="true" tabindex="-1" href="#manual-install"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">手动安装</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们推荐
+上面的</font></font><a href="https://github.com/rowyio/rowy#quick-guided-install"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速引导安装</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+选项。</font><font style="vertical-align: inherit;">仅当您想开发项目并为项目做出贡献时，才建议使用手动安装选项。</font><font style="vertical-align: inherit;">请按照本
+</font></font><a href="https://docs.rowy.io/setup/install#option-2-manual-install" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">进行手动设置。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-roadmap" class="anchor" aria-hidden="true" tabindex="-1" href="#roadmap"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">路线图</font></font></h2>
+<p dir="auto"><a href="https://roadmap.rowy.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看我们的</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rowy 路线图 - 赞成、反对、分享您的想法！</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想提出一项功能，请
+</font></font><a href="https://github.com/rowyio/rowy/issues/new?assignees=&amp;labels=&amp;template=feature_request.md&amp;title="><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提交问题。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-support-the-project" class="anchor" aria-hidden="true" tabindex="-1" href="#support-the-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持项目</font></font></h2>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"></font><a href="https://discord.gg/fjBugmvzZP" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加入Discord</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上的开发者社区</font><font style="vertical-align: inherit;">并分享您的想法/反馈 💬</font></font></li>
+<li><font style="vertical-align: inherit;"></font><a href="https://twitter.com/rowyio" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在Twitter</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上关注我们</font><font style="vertical-align: inherit;">并帮助
+</font></font><a href="https://twitter.com/intent/tweet?text=Check%20out%20@rowyio%20-%20It%27s%20like%20an%20open-source%20Airtable%20for%20your%20database,%20but%20with%20a%20built-in%20code%20editor%20for%20cloud%20functions%20to%20run%20on%20data%20CRUD!%0a%0aEsp%20if%20building%20on%20@googlecloud%20and%20@Firebase%20stack,%20it%20is%20the%20fastest%20way%20to%20build%20your%20product.%20Live%20demo:%20https://demo.rowy.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">传播信息</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+🙏</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">给我们这个 Github 存储库加一颗星 ⭐️</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提交 PR。</font><font style="vertical-align: inherit;">请查看我们的
+</font></font><a href="https://github.com/rowyio/rowy/blob/main/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南并从</font></font></a><font style="vertical-align: inherit;"></font><a href="https://github.com/rowyio/rowy/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">良好的第一个问题</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+开始
+</font><font style="vertical-align: inherit;">。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-help" class="anchor" aria-hidden="true" tabindex="-1" href="#help"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">帮助</font></font></h2>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><a href="https://www.rowy.io/discord" rel="nofollow"><font style="vertical-align: inherit;">Discord</font></a><font style="vertical-align: inherit;">上的实时聊天支持</font></font><a href="https://www.rowy.io/discord" rel="nofollow"><font style="vertical-align: inherit;"></font></a></li>
+<li><a href="mailto:hello@rowy.io"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电子邮件</font></font></a></li>
+</ul>
+</article></div>
